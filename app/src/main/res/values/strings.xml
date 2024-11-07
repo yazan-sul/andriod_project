@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="SingUP">Not yet registerd? SingUp Now</string>
+    <string name="logoText">This is Yazan App</string>
+    <string name="enter_age">Enter your age:</string>
+    <string name="enter_weight">Enter your weight (kg):</string>
+    <string name="enter_height">Enter your height (cm):</string>
+    <string name="enter_gender">Enter your gender (M/F):</string>
+    <string name="calculate">Calculate the BMR</string>
+    <string name="close">Close</string>
+    <string name="show_meals">Show Meals</string>
+    <string name="terms">I accept terms and privacy policy</string>
+    <string name="home_text">This is home page</string>
+    <string name="desc_BMRButton">from here you can calculate BMR for any type of bodies</string>
+    <string name="desc_CaloriasButton">from here you can find out amount of calories for some food</string>
+    <string name="goToBMR">Go To BMR Calculation</string>
+    <string name="goToCalories">Go To calories Calculation</string>
+    <string name="hint_age">e.g. 30 years</string>
+    <string name="logo_des">App Logo</string>
+    <string name="Male">M</string>
+    <string name="Female">F</string>
+    <string name="hint_height">e.g. 170 cm</string>
+    <string name="hint_weight">e.g. 70 kg</string>
+</resources>
